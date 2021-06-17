@@ -1,3 +1,8 @@
+---
+title: "Tao SSH Key Linux"
+date: 2021-06-17
+---
+
 Bước 1: Tạo Key
 Đầu tiên bạn mở Terminal lên, thường sẽ có sẵn trên hệ điều hành Linux. Bạn nhập như sau:
 
