@@ -1,4 +1,8 @@
-Xóa bỏ đuôi ?v=e14da64a5617 sau tên miền trong Wordpress
+---
+title: "Xóa bỏ đuôi ?v=e14da64a5617 sau tên miền trong Wordpress"
+date: 2021-06-28
+---
+
 <!-- wp:paragraph -->
 <p> ?v=e14da64a5617 là do tính năng tự động phát hiện địa điểm của khách hàng trong WooCommerce. Việc hiển thị này ảnh hưởng khá nhiều đến URL của bạn, mặt khác cũng ảnh hưởng đến SEO. Mình sẽ hướng dẫn các bạn cách bỏ đuôi này như sau.</p>
 <!-- /wp:paragraph -->
