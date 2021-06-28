@@ -1,4 +1,7 @@
-Cài đặt chứng chỉ SSL lên máy chủ Ubuntu sử dụng webserver Apache
+---
+title: "Cài đặt chứng chỉ SSL lên máy chủ Ubuntu sử dụng webserver Apache"
+date: 2021-06-28
+---
 <!-- wp:paragraph -->
 <p>Trước đây mình có hướng dẫn về cài đặt SSL cho webserver Apache trên CentOS, vậy còn cài đặt trên Ubuntu thì sẽ như thế nào, cùng mình tìm hiểu nhé.</p>
 <!-- /wp:paragraph -->
