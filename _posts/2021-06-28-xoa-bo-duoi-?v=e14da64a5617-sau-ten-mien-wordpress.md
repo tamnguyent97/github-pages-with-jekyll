@@ -11,13 +11,9 @@ date: 2021-06-28
 <p>Đầu tiên bạn cần login vào trang admin của Wordpress, sau đó chuyển đến WooCommerce, chọn phần Setting(Thiết lập), tìm đến Default customer location (Vị trí khách hàng mặc định) và chọn No location by default(Không có địa điểm mặc định).</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:image {"id":1859,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="http://thanhtam.works/wp-content/uploads/2020/03/duoiwordpress-1.png" alt="" class="wp-image-1859"/></figure>
-<!-- /wp:image -->
+<a href="https://imgur.com/dQWUqRU"><img src="https://i.imgur.com/dQWUqRU.png" title="source: imgur.com" /></a>
 
-<!-- wp:image {"id":1860,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="http://thanhtam.works/wp-content/uploads/2020/03/duoiwordpress-2.png" alt="" class="wp-image-1860"/></figure>
-<!-- /wp:image -->
+<a href="https://imgur.com/uaWGx7k"><img src="https://i.imgur.com/uaWGx7k.png" title="source: imgur.com" /></a>
 
 <!-- wp:paragraph -->
 <p>Và nếu bạn đang sử dụng plugin cache nào đó, hãy nhớ xóa cache trước khi truy cập lại nhé.</p>
