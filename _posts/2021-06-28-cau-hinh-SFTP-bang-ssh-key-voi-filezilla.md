@@ -1,4 +1,8 @@
-Cấu hình SFTP bằng SSH Key với FileZilla
+
+---
+title: "Cấu hình SFTP bằng SSH Key với FileZilla"
+date: 2021-06-28
+---
 <!-- wp:paragraph -->
 <p>Bạn đang quản trị VPS và cấu hình bảo mật trên VPS không cho thực hiện SSH bằng mật khẩu mà thực hiện SSH qua SSH Key. Vì vậy việc bạn thực hiện upload dữ liệu thông qua FTP sẽ không thực hiện được. Hôm nay mình sẽ hướng dẫn các bạn cách thực hiện dùng SSH Key với phần mềm FileZilla thông qua giao thức SFTP.</p>
 <!-- /wp:paragraph -->
