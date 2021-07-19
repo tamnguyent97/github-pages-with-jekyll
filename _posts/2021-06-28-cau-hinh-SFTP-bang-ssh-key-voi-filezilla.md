@@ -15,7 +15,7 @@ date: 2021-06-28
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
-<ul><li><a aria-label=" (opens in a new tab)" href="https://thanhtam.works/tao-ssh-key-vps-tren-linux/" target="_blank" rel="noreferrer noopener" class="rank-math-link">Tạo SSH Key VPS trên Linux</a></li><li><a aria-label=" (opens in a new tab)" href="https://thanhtam.works/huong-dan-tao-ssh-key-vps-tren-windows/" target="_blank" rel="noreferrer noopener" class="rank-math-link">Tạo SSH key VPS trên Windows</a></li></ul>
+<ul><li><a aria-label=" (opens in a new tab)" href="" target="_blank">Tạo SSH Key VPS trên Linux</a></li><li><a aria-label=" (opens in a new tab)" href="" target="_blank">Tạo SSH key VPS trên Windows</a></li></ul>
 <!-- /wp:list -->
 
 <!-- wp:heading -->
